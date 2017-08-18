@@ -13,16 +13,6 @@ import java.util.Queue;
  */
 public class TreePrinter {
 
-    private static class TreeNode {
-        int val = 0;
-        TreeNode left = null;
-        TreeNode right = null;
-
-        public TreeNode(int val) {
-            this.val = val;
-        }
-    }
-
     public static int[][] printTree(TreeNode root) {
         // last 记录当前行的末尾节点，nlast 记录下一行的末尾节点, bfs 队列遍历
         Queue<TreeNode> queue = new LinkedList<>();
