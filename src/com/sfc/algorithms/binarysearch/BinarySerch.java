@@ -1,4 +1,4 @@
-package com.sfc.algorithms;
+package com.sfc.algorithms.binarysearch;
 
 /**
  * 二分查找又称折半查找，它是一种效率较高的查找方法。
