@@ -14,6 +14,6 @@
 * [LeftMostAppearance](/src/com/sfc/algorithms/binarySearch/LeftMostAppearance.java)
 有序数组，第一个出现目标值的下标，二分查找，相等的时候更新 res = mid，并继续向左查找
 
-
-
+* [CountNodes](/src/com/sfc/algorithms/binarySearch/CountNodes.java)
+求一个完全二叉树的节点数目，满二叉树的数目 2^Depth - 1，通过求左右孩子的最左深度，判断左右子树是不是完全二叉树，是的那个子树通过公式计算数目，不是的那个子树通过递归计算数目，最后相加即可
 
