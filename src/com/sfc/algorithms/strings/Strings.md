@@ -16,3 +16,6 @@
 先整体逆序，再逐个单词逆序
 
 * [Translation](/src/com/sfc/algorithms/strings/Translation.java) 逆序问题，三次逆序
+
+* [Prior](/src/com/sfc/algorithms/strings/Prior.java) 保证拼接字符串后字典顺序最小，大小比较是
+`a + b` 与 `b + a` 的字典顺序进行比较，实现 `Comparator`, 用 `Arrays.sort(strs, new MyComparator());` 进行排序拼接
