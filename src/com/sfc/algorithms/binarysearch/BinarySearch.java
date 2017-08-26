@@ -5,7 +5,7 @@ package com.sfc.algorithms.binarysearch;
  * 【二分查找要求】：1.必须采用顺序存储结构 2.必须按关键字大小有序排列。
  * Created by Prophet on 2017/2/12.
  */
-public class BinarySerch {
+public class BinarySearch {
     public static void main(String[] args) {
         int[] src = new int[] {1, 3, 5, 7, 8, 9};
         System.out.println(binarySearch(src, 3));
