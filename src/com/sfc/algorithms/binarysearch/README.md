@@ -8,7 +8,7 @@
 二分查找又称折半查找，它是一种效率较高的查找方法。
 二分查找要求：1. 必须采用顺序存储结构 2. 必须按关键字大小有序排列。
 
-* [FindLocalMiminum](/src/com/sfc/algorithms/binarysearch/FindLocalMiminum.java)
+* [FindLocalMiminum](/src/com/sfc/algorithms/binarysearch/FindLocalMinimum.java)
 局部最小，找一个局部最小的坐标返回，一个极小值点
 
 * [LeftMostAppearance](/src/com/sfc/algorithms/binarysearch/LeftMostAppearance.java)
