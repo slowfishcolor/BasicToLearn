@@ -14,3 +14,5 @@
 
 * [Reverse](/src/com/sfc/algorithms/strings/Reverse.java) 符串的单词逆序，
 先整体逆序，再逐个单词逆序
+
+* [Translation](/src/com/sfc/algorithms/strings/Translation.java) 逆序问题，三次逆序
