@@ -7,3 +7,7 @@
 
 * [04 替换空格](N04_ReplaceBlank.java)
 字符串的空格替换为 `%20` ，从后往前复制
+
+* [05 从尾到头打印链表](N05_PrintListReverse.java)
+遍历，使用栈存
+
