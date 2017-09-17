@@ -30,3 +30,7 @@
 * [09-3 矩形覆盖](N09_3_RectCover.java)
 
 * [10 二进制中 1 的个数](N10_NumberOf1InBinary.java)
+
+## Chapter 3
+
+* [11 数值的整数次方](N11_Power.java)
