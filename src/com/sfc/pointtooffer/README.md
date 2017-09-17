@@ -16,3 +16,6 @@
 
 * [07 两个栈实现队列](N07_QueueWithTwoStacks.java)
 两个栈实现队列
+
+* [08 旋转数组的最小数字](N08_MinNumberInRotatedArray.java)
+二分查找
