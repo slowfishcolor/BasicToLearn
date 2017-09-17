@@ -8,7 +8,7 @@ package com.sfc.pointtooffer;
  *
  * Created by Prophet on 2017/9/17.
  */
-public class N03FindInMatrix {
+public class N03_FindInPartiallySortedMatrix {
 
     public boolean Find(int target, int [][] array) {
         int rows = array.length;// 行数
