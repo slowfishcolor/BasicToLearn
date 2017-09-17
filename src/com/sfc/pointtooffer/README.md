@@ -11,3 +11,5 @@
 * [05 从尾到头打印链表](N05_PrintListReverse.java)
 遍历，使用栈存
 
+* [06 重建二叉树](N06_ConstructBinaryTree.java)
+根据前序与中序重建二叉树
