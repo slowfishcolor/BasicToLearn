@@ -19,3 +19,12 @@
 
 * [08 旋转数组的最小数字](N08_MinNumberInRotatedArray.java)
 二分查找
+
+* [09 斐波那契数列](N09_Fibonacci.java)
+
+* [09-1 上台阶](N09_1_JumpFloor.java)
+上台阶，动归，也是一个斐波那契数列
+
+* [09-2 变态上台阶](N09_2_JumpFloorII.java)
+
+* [09-3 矩形覆盖](N09_3_RectCover.java)
