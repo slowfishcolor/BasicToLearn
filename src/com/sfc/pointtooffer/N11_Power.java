@@ -32,6 +32,14 @@ public class N11_Power {
                 }
             }
             System.out.println(System.currentTimeMillis() - startTime);
+
+            startTime = System.currentTimeMillis();
+            for (int j = 0; j < 100000; j++) {
+                for (int i = 0; i < 100; i++) {
+                    Math.pow(1.5, i);
+                }
+            }
+            System.out.println(System.currentTimeMillis() - startTime);
         }
 
 
